@@ -5,7 +5,9 @@
 
 **PLEASE READ EVERY STEP AND PIECE OF INFORMATION WITH PRECISION. FAILURE TO DO SO WILL LEAD TO POTENTIAL SYSTEM FAILURE, AND THE GUIDE MAKER(S) WILL NOT BE HELD RESPONSIBLE FOR ANY DAMAGE.**
 
-Hello there! Welcome to the wonderful world of custom PC building. Before we start building, let's get you ready.
+Hello there! Welcome to the wonderful world of custom PC building. Don't worry, this is easy. It's basically legos but for adults.
+
+**Before we start building, let's get you ready.**
 
 ## TABLE OF CONTENTS
 - [Part Picking](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#part-picking)
@@ -31,32 +33,33 @@ The most asked question about part picking is, "Which part is the most important
 Obviously, there are more servers, but speaking from experience, these three are just some servers I recommend you start with. Again, PCPartPicker is a powerful tool that can help you assemble a basic part list with recommendations and compatibility issues, but you should always ask for help if you don't know what you're doing.
 
 # Tools needed
-## Contrary to popular belief, you don't need *that* many tools to build a PC.
 
 ### YOU WILL NEED:
 - 1x Screwdriver 
- ‣ A flexible/magnetic/long one would be convenient, but a standard one should do. Usually, Philips #2 screwdrivers are the most recommended, but if you are using M.2 devices, you'll need a smaller screwdriver head, usually Phillips #0.
+  - You'll need a philips head screwdriver, you can find these on [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) for cheap. Preferrably, you want a magnetic/electrical screwdriver to make things easier, but a standard screwdriver will do.
+
 - 1x Desk/Flat surface (OPTIONAL: Desk mat)
- ‣ It's ill-advised to build a PC on the floor. Using an elevated surface like a desk or table makes it easier to get around your build and put things in their proper places. If you're going to build on a floor, build on a soft, but not deep, rug/carpet. Hardwood/tiled floors can scratch components like your motherboard, and deep carpeting can cause you to lose screws. Desk mats are commonly used to build PCs, as they can transform a hard table into a soft workplace, that can also help keep you organized.
+  - Please don't build a PC on the floor or on carpet. Screws get lost easily especially on carpet.
+
 - 1x Screw Tray
- ‣ This doesn't have to be a real screw tray, it can be a dinner plate, pill sorter, or something else that keeps your screws organized. Most screw trays are made of magnetic stainless steel, so a handy tip is to use something like a dry-erase marker to divide your tray and mark which screws belong to what.
+  - You can use a dinner plate to hold your screws, it really doesn't matter. Just find something to organize your screws with.
 
 Like I said, there really aren't that many things you need for building a PC. With that established, let's begin!
 
 # Building the PC:
 
-![image](
+![image](https://cdn.discordapp.com/attachments/950719753729765406/983550886586507264/unknown.png)
 
 Let's start with the motherboard. Take the motherboard out of the box it came with. It should come in a bag. don't open the bag and take the physical motherboard out. Instead, gently lay it down on an open space on your working area.
 
 Next up, check the rest of the box for accessories. You should find a bunch of them stashed away in there.
 
 ## YOU WILL (most likely) FIND:
-### **A rectangular metal plate with different shaped holes in it**
+### **IO Shield**
 ![image](https://images-na.ssl-images-amazon.com/images/I/41lLvdJmGqL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg)
 - This is the IO Shield. On the upper left of your motherboard, you'll see a bunch of ports. The IO shield protects these ports, and also acts as a shield against dust. Take this out of the box.
-  - If you don't find one, it is most likely already attached to your motherboard.
-  - If you don't find one in your box or attached to your motherboard, don't panic. The IO shield is mainly for aesthetics, and not using it or not having one won't have a negative effect on your build.
+  - If you don't find one, it's probably already attached to your motherboard.
+  - If you don't find one at all, don't worry. The IO shield is mainly for aesthetics, and not having one won't mess with the PC.
 
 ### **A bag of 1 pair/2 pairs of tiny metal screws and cylinders**
 ![image](https://i.ebayimg.com/images/g/iWgAAOSw59hbLdqV/s-l640.jpg)
