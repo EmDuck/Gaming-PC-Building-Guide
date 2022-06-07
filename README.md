@@ -1,7 +1,7 @@
 # EmDuck's Gaming PC Building Guide
 ![image](https://user-images.githubusercontent.com/95573641/145118653-96ac0b4d-adc8-433c-a7fe-7468cf70362d.png)
 ## (THIS IS A GUIDE TARGETED AT GENERAL ATX/MICRO-ATX BUILDS ONLY. INFORMATION ABOUT MINI-ITX, CUSTOM WATER COOLING AND SUCH WILL NOT BE FOUND HERE.)
-### Inspired by Ozone and Arshia's guides.
+### Inspired by [Ozone](https://github.com/ozone3950) and [Arshia's](https://github.com/Arshia1381) guides.
 
 **PLEASE READ EVERY STEP AND PIECE OF INFORMATION WITH PRECISION. FAILURE TO DO SO WILL LEAD TO POTENTIAL SYSTEM FAILURE, AND THE GUIDE MAKER(S) WILL NOT BE HELD RESPONSIBLE FOR ANY DAMAGE.**
 
