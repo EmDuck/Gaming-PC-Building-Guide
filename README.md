@@ -21,20 +21,6 @@ Before we start building, let's get you ready.
 ## Part picking is an overlooked part of custom PC building. It can seem easy to just mix parts together and call it a day, but there are several other factors that you want to pay attention to.
 ### (I would recommend using https://pcpartpicker.com for creating PC part lists. It checks for compatibility issues, is always being updated, automatically links products and their prices, and has a huge variety of parts.
 
-## Picking your parts
-![image](https://i.pcmag.com/imagery/articles/06LiQJzDE1OdJcUdbgqwz1X-15..v1569470572.jpg)
-
-The most asked question about part picking is, "Which part is the most important?" The answer? Every part is equally important. Each part plays an important role in your system, and missing just one could affect its overall performance, or cause it to not work entirely.
-
-**How to pick your parts:** Ask discord servers in their build-help channels. Some active and reliable servers will be listed down here:
-- PC PARADISE https://discord.gg/pcparadise
-- PC HELP HUB https://discord.gg/fCsPAfuaHQ
-- PC Building 101 https://discord.gg/Etzp7H9T
-
-**Disclaimer: we are not sponsored by these servers, these are just some good ass servers lol**
-
-Obviously, there are more servers, but speaking from experience, these three are just some servers I recommend you start with. Again, PCPartPicker is a powerful tool that can help you assemble a basic part list with recommendations and compatibility issues, but you should always ask for help if you don't know what you're doing.
-
 # Tools needed
 
 ### YOU WILL NEED:
