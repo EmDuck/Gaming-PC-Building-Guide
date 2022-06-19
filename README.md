@@ -1,9 +1,9 @@
 # EmDuck's Gaming PC Building Guide
 ![image](https://user-images.githubusercontent.com/95573641/145118653-96ac0b4d-adc8-433c-a7fe-7468cf70362d.png)
 ## (THIS IS A GUIDE TARGETED AT GENERAL ATX/MICRO-ATX BUILDS ONLY. INFORMATION ABOUT MINI-ITX, CUSTOM WATER COOLING AND SUCH WILL NOT BE FOUND HERE.)
-### Inspired by [Ozone](https://github.com/ozone3950) and [Arshia's](https://github.com/Arshia1381) guides.
+### Inspired by [Ozone](https://github.com/ozone3950) and [Arshia's](https://github.com/Arshia1381) guides. Special thanks to [PCParadise](https://www.discord.gg/pcparadise) for the awesome support and friendships there.
 
-**PLEASE READ EVERY STEP AND PIECE OF INFORMATION WITH PRECISION. FAILURE TO DO SO WILL LEAD TO POTENTIAL SYSTEM FAILURE, AND THE GUIDE MAKER(S) WILL NOT BE HELD RESPONSIBLE FOR ANY DAMAGE.**
+**PLEASE READ EVERY STEP AND PIECE OF INFORMATION CAREFULLY. FAILURE TO DO SO WILL LEAD TO POTENTIAL SYSTEM FAILURE, AND THE GUIDE MAKER WILL NOT BE HELD RESPONSIBLE FOR ANY REPROCUSSIONS.**
 
 Hello there! Welcome to the wonderful world of custom PC building. Don't worry, this is easy. It's basically legos but for adults.
 
