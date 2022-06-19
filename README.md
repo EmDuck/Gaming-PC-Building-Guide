@@ -28,7 +28,7 @@ The most asked question about part picking is, "Which part is the most important
 - PC HELP HUB https://discord.gg/fCsPAfuaHQ
 - PC Building 101 https://discord.gg/Etzp7H9T
 
-**disclaimer: we are not sponsored by these servers, these are just some good ass servers lol**
+**Disclaimer: we are not sponsored by these servers, these are just some good ass servers lol**
 
 Obviously, there are more servers, but speaking from experience, these three are just some servers I recommend you start with. Again, PCPartPicker is a powerful tool that can help you assemble a basic part list with recommendations and compatibility issues, but you should always ask for help if you don't know what you're doing.
 
