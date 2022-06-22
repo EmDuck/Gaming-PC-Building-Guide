@@ -1,7 +1,7 @@
 # Part Picking
 ## Part picking is an overlooked part of custom PC building. It can seem easy to just mix parts together and call it a day, but there are several other factors that you want to pay attention to.
 
-I would recommend using [PCPartPicker](https://pcpartpicker.com/) for creating PC part lists. It checks for compatibility issues, is always being updated, automatically links products and their prices, and has a huge variety of parts.
+I would recommend using [PCPartPicker](https://pcpartpicker.com/) for **creating PC part lists**. It checks for **compatibility issues**, is **always being updated**, automatically **links products and their prices across multiple retailers**, and has a **huge variety of parts**.
 
 # Tools needed
 
@@ -32,17 +32,18 @@ Next up, check the rest of the box for accessories. You should find a bunch of t
   - If you don't find one, it's probably already attached to your motherboard.
   - If you don't find one at all, don't worry. The IO shield is mainly for aesthetics, and not having one won't mess with the PC.
 
-### **A bag of 1 pair/2 pairs of tiny metal screws and cylinders**
+### **M.2 SSD Screws & Standoffs**
 ![image](https://i.ebayimg.com/images/g/iWgAAOSw59hbLdqV/s-l640.jpg)
-- These are the M.2 device screws and standoffs. If you are using any M.2 devices such as M.2 SSDs, M.2 Wi-Fi adapters, and more, then you'll need these. Take this out of the box.
-  - If you are not using any M.2 devices, you'll not need these. If you are using M.2 devices and cannot find them, you'll have to purchase some third-party replacement ones from a retailer/used seller.
+- These are the M.2 SSD screws and standoffs. If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take this out of the box.
+  - If you are **not** using any M.2 devices, you don't need these.
+  - If you **are** using M.2 devices and can't find them, you'll have to purchase some third-party replacements.
 
-### **Foldable antennas/Non-Foldable antenna with cable**
+### **Bendable antennae/Non-Bendable antenna with cable**
 ![image](https://m.media-amazon.com/images/I/51u2H7SbzNL._AC_SL1072_.jpg)
 ![image](https://i.ebayimg.com/images/g/Lo4AAOSwco1fcXmp/s-l640.jpg)
-- These are the Wi-Fi antennae. They extend the Wi-Fi signal and are meant to boost Wi-Fi performance. If your motherboard comes with built-in Wi-Fi, then you'll see this device included with your motherboard. Take this out of the box.
-  - If you don't find this, your motherboard does not have with built-in Wi-Fi, or your motherboard may have built-in antennae or comes with them pre-attached.
-  - If you plan on using a wired connection such as ethernet, you don't need to worry about this.
+- These are the **Wi-Fi antennae**. They extend the Wi-Fi signal and boost the Wi-Fi. If your motherboard has built-in Wi-Fi, then you'll see these included with your motherboard. Take this out of the box.
+  - If you don't find this, your motherboard either **does not have with built-in Wi-Fi**, or your motherboard has **built-in antennae or comes with them pre-attached**.
+  - If you plan on **using a wired connection such as ethernet**, you don't need to worry about this.
 
 ### **Cables**
 ![image](https://cdn.sabrent.com/uploads/CB-SFR3-Main.jpg)
