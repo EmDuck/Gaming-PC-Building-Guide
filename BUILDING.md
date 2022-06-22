@@ -1,9 +1,6 @@
-# Part Picking
-## Part picking is an overlooked part of custom PC building. It can seem easy to just mix parts together and call it a day, but there are several other factors that you want to pay attention to.
+# Building
 
-I would recommend using [PCPartPicker](https://pcpartpicker.com/) for **creating PC part lists**. It checks for **compatibility issues**, is **always being updated**, automatically **links products and their prices across multiple retailers**, and has a **huge variety of parts**.
-
-# Tools needed
+## Tools needed
 
 ### YOU WILL NEED:
 - 1x **Screwdriver**
@@ -17,7 +14,7 @@ I would recommend using [PCPartPicker](https://pcpartpicker.com/) for **creating
 
 Like I said, there really aren't that many things you need for building a PC. With that established, let's begin!
 
-# Building the PC:
+### Building the PC:
 
 ![image](https://cdn.discordapp.com/attachments/950719753729765406/983550886586507264/unknown.png)
 
