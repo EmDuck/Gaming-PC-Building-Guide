@@ -13,6 +13,6 @@
 Before we start building, let's get you ready.
 
 ## TABLE OF CONTENTS
-- [Part Picking](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#part-picking)
-- [Tools Needed](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#tools-needed)
-- [Building the PC](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#building-the-pc)
+- [Part Picking](https://github.com/EmDuck/Gaming-PC-Building-Guide/blob/main/PART%20PICKING.md)
+- [Tools Needed](https://github.com/EmDuck/Gaming-PC-Building-Guide/blob/main/BUILDING.md)
+- [Building the PC](https://github.com/EmDuck/Gaming-PC-Building-Guide/blob/main/BUILDING.md)
