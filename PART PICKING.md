@@ -18,14 +18,22 @@ Fine, here.
 
 ## Part recommendations
 
+For these, the parts will be listed best to worst option from up to down.
+
 ### CPU Recommendations
 
-Low end:
+Low-End:
 - Intel Core i3-10100, i3-10100F
 
 Midrange:
+- Intel Core i5-12400, i5-12400F
+- Intel Core i5-12400, i5-12400F
+- AMD Ryzen 5 5600
+- Intel Core i3-12100, i3-12100F 
 - Intel Core i5-10400, i5-10400F
 - Intel Core i5-10600K, i5-10600KF
-- Intel Core i3-12100, i3-12100F
-- Intel Core i5-12400, i5-12400F
-- AMD Ryzen 5 5600, Ryzen 5 5600X (ONLY GET THE 5600X IF IT'S CHEAPER THAN THE RYZEN 5 5600 AND THE 12400/12400F)
+
+High-End:
+- 
+- Intel Core i5-12700K
+- 
