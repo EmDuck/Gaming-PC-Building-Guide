@@ -1,4 +1,4 @@
-## Picking your parts
+# Picking your parts
 
 ![image](https://i.pcmag.com/imagery/articles/06LiQJzDE1OdJcUdbgqwz1X-15..v1569470572.jpg)
 
@@ -13,3 +13,11 @@ Ah yes, part picking. Such a simple yet controversial topic in the PC building c
 **Disclaimer: we are not sponsored by these servers, these are just some good ass servers lol**
 
 Obviously there are more servers out there, but speaking from experience, these three tech servers are what I would recommend you start with. If you have any trouble using [PCPartPicker](https://pcpartpicker.com/), you can always ask the help channels for support.
+
+"I really want some recommendations though..."
+
+Fine, here you go
+
+## CPU Recommendations
+
+Low end 
