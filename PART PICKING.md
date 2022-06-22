@@ -6,9 +6,9 @@ Ah yes, part picking. Such a simple yet controversial topic in the PC building c
 
 **How to pick your parts:** Ask discord servers in their build-help channels. Some active and reliable servers will be listed down here:
 
-- PC PARADISE https://discord.gg/pcparadise
-- PC HELP HUB https://discord.gg/fCsPAfuaHQ
-- PC Building 101 https://discord.gg/Etzp7H9T
+- [PC PARADISE](https://discord.gg/pcparadise)
+- [PC HELP HUB](https://discord.gg/fCsPAfuaHQ)
+- [PC Building 101](https://discord.gg/Etzp7H9T)
 
 **Disclaimer: we are not sponsored by these servers, these are just some good ass servers lol**
 
