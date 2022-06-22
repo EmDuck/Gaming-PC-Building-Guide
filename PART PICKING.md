@@ -20,7 +20,7 @@ Fine, here.
 
 For these, the parts will be listed best to worst option from up to down.
 
-### CPU Recommendations
+### CPUs
 
 Low-End:
 - Intel Core i3-10100/i3-10100F
@@ -51,3 +51,19 @@ Water:
 - Arctic Liquid Freezer II/RGB Version
 - EK AIO Basic/D-RGB Version
 - Lian Li Galahad
+
+RAM: 
+
+### SSDs
+
+[SSD Tier List](https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list.md)
+
+### GPUs
+
+### CASES
+
+[Case Tier List](https://docs.google.com/spreadsheets/d/1d8C2LZGf2ZWiDvRWZdOr1EjsaYIBYxT10yzTp_JFT14/edit#gid=0)
+
+### PSUs
+
+[PSU Tier List](https://cultists.network/140/psu-tier-list/)
