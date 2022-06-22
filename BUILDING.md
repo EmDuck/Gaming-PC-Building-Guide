@@ -1,15 +1,16 @@
 # Part Picking
 ## Part picking is an overlooked part of custom PC building. It can seem easy to just mix parts together and call it a day, but there are several other factors that you want to pay attention to.
-### (I would recommend using https://pcpartpicker.com for creating PC part lists. It checks for compatibility issues, is always being updated, automatically links products and their prices, and has a huge variety of parts.
+
+I would recommend using [PCPartPicker](https://pcpartpicker.com/) for creating PC part lists. It checks for compatibility issues, is always being updated, automatically links products and their prices, and has a huge variety of parts.
 
 # Tools needed
 
 ### YOU WILL NEED:
-- 1x Screwdriver 
-  - You'll need a philips head screwdriver, you can find these on [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) for cheap. Preferrably, you want a magnetic/electrical screwdriver to make things easier, but a standard screwdriver will do.
+- 1x **Screwdriver**
+  - You'll need a Phillips head screwdriver. [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) has many options for a low price. Magnetic tip/Electrical screwdrivers are more convinient than standard screwdrivers, but it really doesn't matter.
 
-- 1x Desk/Flat surface (OPTIONAL: Desk mat)
-  - Please don't build a PC on the floor or on carpet. Screws get lost easily especially on carpet.
+- 1x **Desk/Flat surface** (OPTIONAL: Desk mat)
+  - Please don't build a PC on the floor or on carpet. Screws get lost all over the floor, especially on carpet.
 
 - 1x Screw Tray
   - You can use a dinner plate to hold your screws, it really doesn't matter. Just find something to organize your screws with.
