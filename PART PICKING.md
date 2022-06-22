@@ -23,17 +23,31 @@ For these, the parts will be listed best to worst option from up to down.
 ### CPU Recommendations
 
 Low-End:
-- Intel Core i3-10100, i3-10100F
+- Intel Core i3-10100/i3-10100F
 
 Midrange:
-- Intel Core i5-12400, i5-12400F
-- Intel Core i5-12400, i5-12400F
-- AMD Ryzen 5 5600
-- Intel Core i3-12100, i3-12100F 
-- Intel Core i5-10400, i5-10400F
-- Intel Core i5-10600K, i5-10600KF
+- Intel Core i5-12400/i5-12400F
+- Intel Core i5-12400/i5-12400F
+- AMD Ryzen 5 5600 (NOT 5600X)
+- Intel Core i3-12100/i3-12100F 
+- Intel Core i5-10400/i5-10400F
 
 High-End:
-- 
 - Intel Core i5-12700K
-- 
+- Intel Core i9-10900K/i9-10900KF/i9-10900KS
+
+### CPU COOLERS
+
+Air:
+
+https://docs.google.com/spreadsheets/d/12WaccxdO2-opdNXKw36PnQ_ht1c-JwjGgXz1xuE1u_8/edit#gid=0
+
+Water:
+
+(Please don't use water coolers on a midrange CPU. It's just wasting money.)
+
+(Also, **DO NOT BUY 120MM WATER COOLERS.)**
+
+- Arctic Liquid Freezer II/RGB Version
+- EK AIO Basic/D-RGB Version
+- Lian Li Galahad
