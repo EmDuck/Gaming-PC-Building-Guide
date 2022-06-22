@@ -64,6 +64,21 @@ RAM:
 
 [Case Tier List](https://docs.google.com/spreadsheets/d/1d8C2LZGf2ZWiDvRWZdOr1EjsaYIBYxT10yzTp_JFT14/edit#gid=0)
 
+Additional Case List:
+- ATX: (Aerocool) Aero One Eclipse | (Antec) DP502, DF600 Flux, DF700 Flux, NX410 | (Be Quiet) PB 500dx, SB 802 | (Cooler Master) NR600, TD500 Mesh | (Corsair) 4000DA, 5000DA, 275RA, 220TA | (Cougar) MX330-G, MX330-G Air |  (Fractal) Focus G, Meshify C, Meshify 2 Compact, Meshify 2, Meshify 2 XL | (Lian Li) Lancool 215, Lancool II Mesh, Lancool 205 Mesh | (Metallic Gear) Neo Air, Neo Qube | (MSI) Forge 100R | (Phanteks) p360a, p400a, p400a digital, p500a d-rgb | (Silverstone) Fara R1 |
+- mATX: (Aerocool) Aero One Eclipse Mini | (Cooler Master) NR400, MB311L | (Fractal) Meshify C Mini, Focus G Mini |  (Tecware) Forge M, Forge M aRGB | (Thermaltake) Versa H18, Core V21
+- mITX: (Cooler Master) NR200, NR200P | (DAN) A4v4.1 | (NCASE) M1v6.1 | (SSUPD) MESHLICIOUS | Velka 7, Metalfish S3, SGPC K39 V2, Acat S1, K40, Nano S1, M24, SGPC K55, ZS A4s V3, K01
+
 ### PSUs
 
 [PSU Tier List](https://cultists.network/140/psu-tier-list/)
+
+### Credits
+
+- **AIR COOLER TIER LIST - QUBEX#5506, Decks#5664, AuroraWolf#3453 (Discord Profiles)**
+
+- **SSD TIER LIST - [windshields](https://github.com/windshields), [jqshy](https://github.com/jqshy), [Rehjg](https://github.com/Rehjg) (GitHub Profiles)
+
+- **CASE TIER LIST - 
+
+- **ADDITIONAL CASE LIST - [Rehg](https://github.com/Rehjg) or Rehg#3341 (GitHub and Discord)
