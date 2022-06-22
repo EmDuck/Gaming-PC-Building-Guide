@@ -13,6 +13,7 @@
 Before we start building, let's get you ready.
 
 ## TABLE OF CONTENTS
+- [Vocabulary](cock)
 - [Part Picking](https://github.com/EmDuck/Gaming-PC-Building-Guide/blob/main/PART%20PICKING.md)
 - [Tools Needed](https://github.com/EmDuck/Gaming-PC-Building-Guide/blob/main/BUILDING.md)
 - [Building the PC](https://github.com/EmDuck/Gaming-PC-Building-Guide/blob/main/BUILDING.md)
