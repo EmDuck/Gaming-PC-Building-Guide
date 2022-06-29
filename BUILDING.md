@@ -4,10 +4,10 @@
 
 ### YOU WILL NEED:
 - 1x **Screwdriver**
-  - You'll need a Phillips head screwdriver. [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) has many options for a low price. Magnetic tip/Electrical screwdrivers are more convinient than standard screwdrivers, but it really doesn't matter.
+  - You'll need a Phillips head screwdriver. [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) has many options for a low price. Magnetic tip/Electrical screwdrivers are more convinient than standard screwdrivers, but it doesn't really matter.
 
-- 1x **Desk/Flat surface** (OPTIONAL: Desk mat)
-  - Please don't build a PC on the floor or on carpet. Screws get lost all over the floor, especially on carpet.
+- 1x **[Desk](https://youtu.be/2lmfF0k2UcU?t=24)/Flat surface** (OPTIONAL: Desk mat)
+  - Please don't build a PC on the floor or on carpet. Screws get lost all over the floor, especially on carpet. 
 
 - 1x Screw Tray
   - You can use a dinner plate to hold your screws, it really doesn't matter. Just find something to organize your screws with.
