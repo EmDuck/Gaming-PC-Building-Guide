@@ -6,7 +6,7 @@
 
 ## **PLEASE READ EVERY STEP AND PIECE OF INFORMATION CAREFULLY. FAILURE TO DO SO WILL LEAD TO POTENTIAL SYSTEM FAILURE, AND THE GUIDE MAKER WILL NOT BE HELD RESPONSIBLE FOR ANY REPROCUSSIONS.**
 
-### Inspired by [Ozone](https://github.com/ozone3950) and [Arshia's](https://github.com/Arshia1381) guides. Special thanks to [PCParadise](https://discord.com/invite/pcparadise) for the awesome support and friendships made there.
+### Inspired by [Ozone](https://github.com/ozone3950) and [Arshia's](https://github.com/Arshia1381) guides. Special thanks to [PCParadise](https://discord.com/invite/pcparadise) for the awesome community there.
 
 **Hello there! Welcome to the wonderful world of custom PC building. Don't worry, this is easy. It's basically legos but for adults.**
 
