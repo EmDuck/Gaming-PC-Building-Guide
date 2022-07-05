@@ -388,4 +388,5 @@ On your motherboard, look at your processor's socket. To the top and bottom of i
 
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/925448448172503070/unknown.png)
 
-You'll need to remove 
+You'll need to remove these mounting brackets. Just unscrew and take them off.
+
