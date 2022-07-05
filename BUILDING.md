@@ -295,7 +295,7 @@ Congratulations! You've installed your memory.
 
 ### **[Click me to go to the next step!](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#installing-the-cooler)**
 
-### Installing **one** stick of Memory
+### Installing **four** sticks of Memory
 
 ![image](https://www.gskill.com/_upload/images/156283150611.png)
 
@@ -390,3 +390,6 @@ On your motherboard, look at your processor's socket. To the top and bottom of i
 
 You'll need to remove these mounting brackets. Just unscrew and take them off.
 
+FUCK THJIS SHIT I AM GOING TO DIE AND SHIT MY PANTS IAWHRFVIWVWVWVWVWVWVVVVVWWWWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+## **Installing the Storage**
