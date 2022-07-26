@@ -35,17 +35,17 @@ Next up, check the rest of the box for accessories. You should find a bunch of t
   - If you are **not** using any M.2 devices, you don't need these.
   - If you **are** using M.2 devices and can't find them, you'll have to purchase some third-party replacements.
 
-### **Bendable antennae/Non-Bendable antenna with cable**
+### **Foldable antennae/Non-Foldable antenna with cable**
 ![image](https://m.media-amazon.com/images/I/51u2H7SbzNL._AC_SL1072_.jpg)
 ![image](https://i.ebayimg.com/images/g/Lo4AAOSwco1fcXmp/s-l640.jpg)
-- These are the **Wi-Fi antennae**. They extend the Wi-Fi signal and boost the Wi-Fi. If your motherboard has built-in Wi-Fi, then you'll see these included with your motherboard. Take this out of the box.
+- These are the **Wi-Fi antennae**. They extend the Wi-Fi signal and boost the Wi-Fi. If your motherboard has **built-in Wi-Fi**, then you'll see these included with your motherboard. Take this out of the box.
   - If you don't find this, your motherboard either **does not have with built-in Wi-Fi**, or your motherboard has **built-in antennae or comes with them pre-attached**.
   - If you plan on **using a wired connection such as ethernet**, you don't need to worry about this.
 
 ### **Cables**
 ![image](https://cdn.sabrent.com/uploads/CB-SFR3-Main.jpg)
-- These cables are the SATA-DATA cables. If you have any SATA devices that require these cables such as hard drives or SATA SSDs, you'll need these cables. Take them out of the motherboard.
-  - If you don't find these cables and have SATA devices that require these cables, you'll have to purchase some third-party replacement ones from a retailer/used seller.
+- These cables are the **SATA-DATA** cables. If you have any SATA devices that require these cables such as **hard drives or SATA SSDs**, you'll need these cables. Take them out of the box.
+  - If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
 
 ### **Paper**
 ![image](https://thumbs.dreamstime.com/b/user-manual-7076290.jpg)
