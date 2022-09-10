@@ -32,18 +32,18 @@ Like I said, there really aren't that many things you need for building a PC. Wi
 
 #### Unboxing the motherboard
 
-1) Let's start with the motherboard.
+Let's start with the motherboard.
 
 - Take the motherboard out of the box it came with. It should come in a bag.
 
 - Gently lay it down to your side. We'll come back for it later.
 
-2) Next up, check the rest of the box for accessories. You should find a bunch of them stashed away in there.
+Next up, check the rest of the box for accessories. You should find a bunch of them stashed away in there.
 
 #### You will (most likely) find:
 
 ##### **IO Shield**
-![image](https://images-na.ssl-images-amazon.com/images/I/41lLvdJmGqL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg) ![image](https://cdn.discordapp.com/attachments/950719753729765406/1001524834074894527/unknown.png)
+![image](https://images-na.ssl-images-amazon.com/images/I/41lLvdJmGqL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg)
 
 This is the IO Shield. Take this out of the box.
 - If you don't find one, it's probably already attached to your motherboard. Some manufacturers do this. - If you don't find one at all, don't worry. The IO shield is mainly for aesthetics, and not having one won't mess with the PC. However, if your OCD is just not doing it for you today, you can always purchase an IO shield for your specified motherboard on third-party retail sites (eBay).
