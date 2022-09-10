@@ -10,6 +10,8 @@ I'm joking. This is relatively simple, just follow directions and you'll survive
 
 ## Tools needed
 
+You don't need many tools.
+
 ### YOU WILL NEED:
 - 1x **Screwdriver**
   - You'll need a Phillips head screwdriver. [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) has several options priced affordably.
@@ -18,8 +20,9 @@ I'm joking. This is relatively simple, just follow directions and you'll survive
 - 1x **[Desk](https://youtu.be/2lmfF0k2UcU?t=24)** ([Verge reference haha](https://youtu.be/M-2Scfj4FZk?t=67))
   - Seriously, though. Don't build a PC on the floor or on carpet. Screws get lost all over the floor and carpet, and it hurts your ass and back. 
 
-- 1x Screw Tray
+- 1x Screw Tray (Optional)
   - You can use a dinner plate to hold your screws, it really doesn't matter. Just find something to organize your screws with.
+  - Honestly, you really don't need this, it just helps with organization.
 
 Like I said, there really aren't that many things you need for building a PC. With that established, let's begin!
 
