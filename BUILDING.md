@@ -52,6 +52,7 @@ This is the IO Shield. Take this out of the box.
 ##### **M.2 SSD Screws & Standoffs**
 
 ![image](https://i.ebayimg.com/images/g/iWgAAOSw59hbLdqV/s-l640.jpg)
+
 These are the M.2 SSD screws and standoffs. 
 
 - If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take it out of the box.
@@ -63,21 +64,27 @@ These are the M.2 SSD screws and standoffs.
 ![image](https://i.ebayimg.com/images/g/Lo4AAOSwco1fcXmp/s-l640.jpg)
 
 - These are the **Wi-Fi antennae**. If your motherboard has **built-in Wi-Fi**, then you'll see these included with your motherboard. Take it out of the box.
-
 - If you don't find this, your motherboard **does not have with built-in Wi-Fi**.
-
 - If you plan on **using a wired connection such as ethernet**, you don't need to worry about this.
 
 ### **SATA-DATA Cables**
 ![image](https://cdn.sabrent.com/uploads/CB-SFR3-Main.jpg)
-- These cables are the **SATA-DATA** cables. If you have any SATA devices that require these cables such as **hard drives or SATA SSDs**, you'll need these cables. Take them out of the box.
-  - If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
 
-### **Paper**
+These are the **SATA-DATA** cables.
+
+- If you have any SATA devices that require these cables such as **hard drives, SATA SSDs, AIOs, a fan controller, etc.** you'll need these cables. Take them out of the box.
+- If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
+
+### **Manual**
+
 ![image](https://thumbs.dreamstime.com/b/user-manual-7076290.jpg)
-- This is your motherboard manual. you'll need to use this as a reference for the build. Take this out of the box.
-  - If you don't have a manual, you can find it at the manufacturer's website. Type in the model of your motherboard and look for the board's manual download, then open the PDF for your reference.
-  - Anything else that you find made out of paper will probably be a quick start guide, a sticker, warranty notes, or a thank you note. You don't have to worry about those.
+
+This is your motherboard manual. Take this out of the box.
+
+- You probably won't need this, but the guide is not made for all user scenarios. Therefore, you should have this around for a reference.
+- If you don't have a manual, you can find it at the manufacturer's website. 
+  - Here's a video showing how to do that.
+- Anything else that you find made out of paper will probably be a quick start guide, a sticker, warranty notes, or a thank you note. You don't have to worry about those except for warranty (if you somehow manage to break your motherboard).
 
 ### **A disk**
 ![image](https://cdn.discordapp.com/attachments/713150258951225395/918240664435695656/20211208_153949.jpg)
