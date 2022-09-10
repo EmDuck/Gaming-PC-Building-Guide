@@ -63,7 +63,7 @@ These are the M.2 SSD screws and standoffs.
 - If you don't find this, your motherboard **does not have with built-in Wi-Fi**.
 - If you plan on **using a wired connection such as ethernet**, you don't need to worry about this.
 
-### **SATA-DATA Cables**
+##### **SATA-DATA Cables**
 ![image](https://cdn.sabrent.com/uploads/CB-SFR3-Main.jpg)
 
 These are the **SATA-DATA** cables.
@@ -71,7 +71,7 @@ These are the **SATA-DATA** cables.
 - If you have any SATA devices that require these cables such as **hard drives, SATA SSDs, AIOs, a fan controller, etc,** you'll need these cables. Take them out of the box.
 - If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
 
-### **Manual**
+##### **Manual**
 
 ![image](https://thumbs.dreamstime.com/b/user-manual-7076290.jpg)
 
@@ -82,10 +82,15 @@ This is your motherboard manual. Take this out of the box.
   - Here's a video showing how to do that.
 - Anything else that you find made out of paper will probably be a quick start guide, a sticker, warranty notes, or a thank you note. You don't have to worry about those except for warranty (if you somehow manage to break your motherboard).
 
-### **A disk**
+##### **Driver Disk*
 ![image](https://cdn.discordapp.com/attachments/713150258951225395/918240664435695656/20211208_153949.jpg)
-- This is a DVD drive for your motherboard's drivers. I wouldn't recommend using this to install your motherboard's drivers because, one, it's probably out of date, as product manufacturers will have products sitting around for months on end until someone orders it, and two, you'll need to add an optical disk drive to your system, and that can be a pain and is unnecessary for more modern systems. Just let it sit in the box for now.
-  - If you don't have this, don't worry. You'll install drivers for your motherboard later from the manufacturer's website either way.
+
+This is a DVD drive containing your motherboard's drivers.
+
+- I wouldn't recommend using this to install your motherboard's drivers because the drivers on there are most likely very out of date.
+  - Also, you'll need an optical disk drive and most modern cases don't support those.
+
+ If you don't have this, you really do not need to be concerned.
 
 ### Once you find everything you need, head on to the next step. Close the motherboard box fully, and get your motherboard. Gently open the bag, and lay the motherboard down on top of the box, it provides a nice elevated surface to get started on.
 
