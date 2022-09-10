@@ -15,7 +15,7 @@ I'm joking. This is relatively simple, just follow directions and you'll survive
   - You'll need a Phillips head screwdriver. [Amazon](https://www.amazon.com/s?k=philips+head+screwdrivers&crid=1SDNETJCKJ11F&sprefix=philips+head+%2Caps%2C83&ref=nb_sb_ss_ts-doa-p_4_13) has several options priced affordably.
   - Magnetic tip and/or electrical screwdrivers are more convenient than standard screwdrivers, but it doesn't really matter.
 
-- 1x **[Desk](https://youtu.be/2lmfF0k2UcU?t=24)** (OPTIONAL: Desk mat)
+- 1x **[Desk](https://youtu.be/2lmfF0k2UcU?t=24)** ([Verge reference haha](https://youtu.be/M-2Scfj4FZk?t=67)
   - Please don't build a PC on the floor or on carpet. Screws get lost all over the floor, especially on carpet. 
 
 - 1x Screw Tray
