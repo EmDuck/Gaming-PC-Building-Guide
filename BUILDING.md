@@ -40,7 +40,7 @@ Next up, check the rest of the box for accessories. You should find a bunch of t
 ##### **IO Shield**
 ![image](https://images-na.ssl-images-amazon.com/images/I/41lLvdJmGqL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg)
 
-This is the IO Shield. Take this out of the box.
+This is the **IO Shield**. Take this out of the box.
 
 - If you don't find one, it's probably already attached to your motherboard. Some manufacturers do this. 
 - If you don't find one at all, don't worry. The IO shield is for aesthetical purposes. You can always buy one for your specific motherboard on eBay.
@@ -49,7 +49,7 @@ This is the IO Shield. Take this out of the box.
 
 ![image](https://i.ebayimg.com/images/g/iWgAAOSw59hbLdqV/s-l640.jpg)
 
-These are the M.2 SSD screws and standoffs. 
+These are the **M.2 SSD screws and standoffs**. 
 
 - If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi, etc, then you'll need these. Take it out of the box.
 - If you are **not** using any M.2 devices, you don't need these.
@@ -66,16 +66,15 @@ These are the M.2 SSD screws and standoffs.
 ##### **SATA-DATA Cables**
 ![image](https://cdn.sabrent.com/uploads/CB-SFR3-Main.jpg)
 
-These are the **SATA-DATA** cables.
+These are the **SATA-DATA** cables. Take these out of the box only if you have non-M.2 SSDs/Hard Drives.
 
-- If you have any SATA devices that require these cables such as **hard drives, SATA SSDs, AIOs, a fan controller, etc,** you'll need these cables. Take them out of the box.
-- If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
+- If you don't find these cables and have devices that require these cables, you'll have to purchase some replacements ones from [Amazon](https://www.amazon.com/s?k=sata+data+cables&crid=33QSFSUDHIDG2&sprefix=sata+data+cables%2Caps%2C74&ref=nb_sb_noss_1).
 
 ##### **Manual**
 
 ![image](https://thumbs.dreamstime.com/b/user-manual-7076290.jpg)
 
-This is your motherboard manual. Take this out of the box.
+This is your **motherboard manual**. Take this out of the box.
 
 - You probably won't need this, but the guide is not made for all user scenarios. Therefore, you should have this around for a reference.
 - If you don't have a manual, you can find it at the manufacturer's website. 
@@ -85,7 +84,7 @@ This is your motherboard manual. Take this out of the box.
 ##### **Driver Disk*
 ![image](https://cdn.discordapp.com/attachments/713150258951225395/918240664435695656/20211208_153949.jpg)
 
-This is a DVD drive containing your motherboard's drivers.
+This is a DVD drive containing your motherboard's drivers. Leave this in the box.
 
 - I wouldn't recommend using this to install your motherboard's drivers because the drivers on there are most likely very out of date.
   - Also, you'll need an optical disk drive and most modern cases don't support those.
