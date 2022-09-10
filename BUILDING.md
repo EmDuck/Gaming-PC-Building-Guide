@@ -1,5 +1,13 @@
 # Building
 
+Welcome to the fun part of this guide, building the system!
+
+Are you scared?
+
+Good!
+
+I'm joking. This is relatively simple, just follow directions and you'll survive.
+
 ## Tools needed
 
 ### YOU WILL NEED:
