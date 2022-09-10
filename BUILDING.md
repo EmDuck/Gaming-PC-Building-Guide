@@ -18,13 +18,9 @@ You don't need many tools.
   - Magnetic tip and/or electrical screwdrivers are more convenient than standard screwdrivers, but it doesn't really matter.
 
 - 1x **[Desk](https://youtu.be/2lmfF0k2UcU?t=24)** ([Verge reference haha](https://youtu.be/M-2Scfj4FZk?t=67))
-  - Seriously, though. Don't build a PC on the floor or on carpet. Screws get lost all over the floor and carpet, and just sitting down for hours building hurts your ass and back. 
+  - Seriously, though. I wouldn't recommend building a PC on the floor, especially on carpet. Screws get lost easily and sitting down for hours building just hurts your ass and back. 
 
-- 1x Screw Tray (Optional)
-  - You can use a dinner plate to hold your screws, it really doesn't matter. Just find something to organize your screws with.
-  - Honestly, you really don't need this, it just helps with organization.
-
-Like I said, there really aren't that many things you need for building a PC. With that established, let's begin!
+Like I said, there really aren't that many things you need for building a PC. With that done, let's begin!
 
 ### Building the PC:
 
