@@ -96,8 +96,9 @@ First, take your processor out of its box. Be gentle with it.
   - If there is a stock cooler inside and you're using it, take it out as well and place it down on your workspace.
   - Be aware that the stock cooler (usually) has pre-applied thermal paste on the bottom of the heatsink, so don't let that touch the table or you. If you get some paste on your hands, just lay down the cooler and go wash your hands.
 
-## **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1151/1200](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#intel-lga-1xxx-installation)**
 ## **[CLICK ME IF YOU ARE INSTALLING AMD AM4](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#amd-am4-installation)**
+## **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1151/1200](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#intel-lga-1xxx-installation)**
+## **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1700]()
 
 ### Intel LGA 1151/1200 Installation
 
