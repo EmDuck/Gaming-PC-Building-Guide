@@ -35,7 +35,6 @@ Like I said, there really aren't that many things you need for building a PC. Wi
 Let's start with the motherboard.
 
 - Take the motherboard out of the box it came with. It should come in a bag.
-
 - Gently lay it down to your side. We'll come back for it later.
 
 Next up, check the rest of the box for accessories. You should find a bunch of them stashed away in there.
@@ -48,15 +47,16 @@ Next up, check the rest of the box for accessories. You should find a bunch of t
 This is the IO Shield. Take this out of the box.
 
 - If you don't find one, it's probably already attached to your motherboard. Some manufacturers do this. 
-
 - If you don't find one at all, don't worry. The IO shield is for aesthetical purposes. You can always buy one for your specific motherboard on eBay.
 
 ##### **M.2 SSD Screws & Standoffs**
 
 ![image](https://i.ebayimg.com/images/g/iWgAAOSw59hbLdqV/s-l640.jpg)
-- These are the M.2 SSD screws and standoffs. If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take it out of the box.
-  - If you are **not** using any M.2 devices, you don't need these.
-  - If you **are** using M.2 devices and can't find them, you'll have to purchase some third-party replacements.
+These are the M.2 SSD screws and standoffs. 
+
+- If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take it out of the box.
+- If you are **not** using any M.2 devices, you don't need these.
+- If you **are** using M.2 devices and can't find them, you'll have to purchase some third-party replacements.
 
 ##### **WiFi Antennae**
 ![image](https://m.media-amazon.com/images/I/51u2H7SbzNL._AC_SL1072_.jpg)
