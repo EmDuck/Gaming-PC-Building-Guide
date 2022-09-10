@@ -30,6 +30,8 @@ Like I said, there really aren't that many things you need for building a PC. Wi
 
 ![image](https://editorial01.shutterstock.com/preview-440/5586888t/8c13463c/Shutterstock_5586888t.jpg)
 
+##### Unboxing the motherboard
+
 Let's start with the motherboard. Take the motherboard out of the box it came with. It should come in a bag. don't open the bag and take the physical motherboard out. Instead, gently lay it down on an open space on your working area.
 
 Next up, check the rest of the box for accessories. You should find a bunch of them stashed away in there.
