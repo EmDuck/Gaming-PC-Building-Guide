@@ -2,7 +2,13 @@
 
 ![image](https://i.pcmag.com/imagery/articles/06LiQJzDE1OdJcUdbgqwz1X-15..v1569470572.jpg)
 
-Ah yes, part picking. Such a simple yet controversial topic in the PC building community. You may ask, "Well, which part is the most important out of all of them? Which one should I dump all my cash on?" Well, sorry to be so straightforward, but every part is equally important. Each part plays an important role in your system, and skimping out on just one could make you regret it.
+Part picking. It may seem simple at first, but there's a rabbit hole for this too. 
+
+As a beginner, you may ask, "Which part is the most important? Which one should I spend most of my money on?" 
+
+Well, every part is equally important. Each part plays an important role in your system, and skimping out on just one could make you regret it.
+
+If you want to listen to my rant about it, please click here.
 
 **How to pick your parts:** Ask Discord servers in their #build-help channels (don't be that fucker that spams #general with questions). Some active and reliable servers will be listed down here:
 
@@ -15,3 +21,7 @@ Obviously there are more servers out there, but speaking from experience, these 
 "I really want some recommendations though..."
 
 Fine, [here](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md).
+
+### Why all parts in your PC equally matter
+
+Let's use an example and say that I'm building a $1500 gaming PC.
