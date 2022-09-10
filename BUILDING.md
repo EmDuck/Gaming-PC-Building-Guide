@@ -51,7 +51,7 @@ This is the IO Shield. Take this out of the box.
 
 These are the M.2 SSD screws and standoffs. 
 
-- If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take it out of the box.
+- If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi, etc, then you'll need these. Take it out of the box.
 - If you are **not** using any M.2 devices, you don't need these.
 - If you **are** using M.2 devices and can't find them, you'll have to purchase some third-party replacements.
 
@@ -68,7 +68,7 @@ These are the M.2 SSD screws and standoffs.
 
 These are the **SATA-DATA** cables.
 
-- If you have any SATA devices that require these cables such as **hard drives, SATA SSDs, AIOs, a fan controller, etc.** you'll need these cables. Take them out of the box.
+- If you have any SATA devices that require these cables such as **hard drives, SATA SSDs, AIOs, a fan controller, etc,** you'll need these cables. Take them out of the box.
 - If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
 
 ### **Manual**
