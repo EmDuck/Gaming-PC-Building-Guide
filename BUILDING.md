@@ -46,22 +46,29 @@ Next up, check the rest of the box for accessories. You should find a bunch of t
 ![image](https://images-na.ssl-images-amazon.com/images/I/41lLvdJmGqL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg)
 
 This is the IO Shield. Take this out of the box.
-- If you don't find one, it's probably already attached to your motherboard. Some manufacturers do this. - If you don't find one at all, don't worry. The IO shield is mainly for aesthetics, and not having one won't mess with the PC. However, if your OCD is just not doing it for you today, you can always purchase an IO shield for your specified motherboard on third-party retail sites (eBay).
+
+- If you don't find one, it's probably already attached to your motherboard. Some manufacturers do this. 
+
+- If you don't find one at all, don't worry. The IO shield is for aesthetical purposes. You can always buy one for your specific motherboard on eBay.
 
 ##### **M.2 SSD Screws & Standoffs**
+
 ![image](https://i.ebayimg.com/images/g/iWgAAOSw59hbLdqV/s-l640.jpg)
-- These are the M.2 SSD screws and standoffs. If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take this out of the box.
+- These are the M.2 SSD screws and standoffs. If you are using any M.2 form factor devices such as M.2 SSDs, M.2 Wi-Fi cards, and more, then you'll need these. Take it out of the box.
   - If you are **not** using any M.2 devices, you don't need these.
   - If you **are** using M.2 devices and can't find them, you'll have to purchase some third-party replacements.
 
-##### **Foldable antennae/Non-Foldable antenna with cable**
+##### **WiFi Antennae**
 ![image](https://m.media-amazon.com/images/I/51u2H7SbzNL._AC_SL1072_.jpg)
 ![image](https://i.ebayimg.com/images/g/Lo4AAOSwco1fcXmp/s-l640.jpg)
-- These are the **Wi-Fi antennae**. They extend the Wi-Fi signal and boost the Wi-Fi. If your motherboard has **built-in Wi-Fi**, then you'll see these included with your motherboard. Take this out of the box.
-  - If you don't find this, your motherboard either **does not have with built-in Wi-Fi**, or your motherboard has **built-in antennae or comes with them pre-attached**.
-  - If you plan on **using a wired connection such as ethernet**, you don't need to worry about this.
 
-### **Cables**
+- These are the **Wi-Fi antennae**. If your motherboard has **built-in Wi-Fi**, then you'll see these included with your motherboard. Take it out of the box.
+
+- If you don't find this, your motherboard **does not have with built-in Wi-Fi**.
+
+- If you plan on **using a wired connection such as ethernet**, you don't need to worry about this.
+
+### **SATA-DATA Cables**
 ![image](https://cdn.sabrent.com/uploads/CB-SFR3-Main.jpg)
 - These cables are the **SATA-DATA** cables. If you have any SATA devices that require these cables such as **hard drives or SATA SSDs**, you'll need these cables. Take them out of the box.
   - If you don't find these cables and have **SATA devices** that require these cables, you'll have to purchase some **third-party replacement** ones from a retailer/used seller.
