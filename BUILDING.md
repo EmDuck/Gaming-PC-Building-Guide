@@ -16,7 +16,7 @@ I'm joking. This is relatively simple, just follow directions and you'll survive
   - Magnetic tip and/or electrical screwdrivers are more convenient than standard screwdrivers, but it doesn't really matter.
 
 - 1x **[Desk](https://youtu.be/2lmfF0k2UcU?t=24)** ([Verge reference haha](https://youtu.be/M-2Scfj4FZk?t=67)
-  - Please don't build a PC on the floor or on carpet. Screws get lost all over the floor, especially on carpet. 
+  - Seriously, though. Don't build a PC on the floor or on carpet. Screws get lost all over the floor and carpet, and it hurts your ass and back. 
 
 - 1x Screw Tray
   - You can use a dinner plate to hold your screws, it really doesn't matter. Just find something to organize your screws with.
