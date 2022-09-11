@@ -114,19 +114,20 @@ Locate the CPU socket. It should be at the upper middle part of your motherboard
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/918261151324835930/unknown.png)
 
 On one of the corners of the socket, there will be a small triangle. 
+
 - Locate and remember the position of this triangle.
 
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/918323706672058418/unknown.png)
 
-Now, next to the socket, there should be a metal lever being held down.
+On the bottom of the socket, there should be a metal lever.
 
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/918261395961815110/unknown.png)
 
-On the very left of the lever, push down and towards you until the lever isn't being held down anymore.
+On the very left of the lever, push down and drag it towards you until the lever isn't being held down anymore.
 
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/918262051716100148/unknown.png)
 
-Now, push the lever all the way to the right. You should see the rubber socket slightly move.
+Now, push the lever all the way to the right. You should see the socket slightly move in its place.
 
 ![image](https://cdn.levvvel.com/wp-content/uploads/am4-cpu-list.jpg)
 
@@ -135,6 +136,7 @@ After you've done that, take the processor and remove it from its plastic shell.
 - **BE EXTREMELY CAUTIOUS WHILE DOING THIS. IF YOU USE TOO MUCH FORCE, THE PROCESSOR CAN FLY OUT OF THE SHELL WHEN YOU OPEN IT, AND IT MIGHT CAUSE PHYSICAL DAMAGE.**
 
 Grab the processor by its sides. don't touch the top with the text or the bottom with the golden pins.
+
 - You can use two hands and grab each corner with one finger.
 
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/918602455225348166/unknown.png)
