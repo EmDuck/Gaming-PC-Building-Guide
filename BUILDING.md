@@ -43,7 +43,7 @@ Next up, check the rest of the box for accessories. You should find a bunch of t
 This is the **IO Shield**. Take this out of the box.
 
 - If you don't find one, it's probably already attached to your motherboard. Some manufacturers do this. 
-- If you don't find one at all, don't worry. The IO shield is for aesthetical purposes. You can always buy one for your specific motherboard on eBay.
+- If you don't find one at all, don't worry. The IO shield is for aesthetical purposes. You can always buy one for your specific motherboard on [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=%28motherboard+model+here%29+io+shield&_sacat=0).
 
 ##### **M.2 SSD Screws & Standoffs**
 
@@ -95,14 +95,77 @@ This is a DVD drive containing your motherboard's drivers. Leave this in the box
 
 ## **Installing the Processor/CPU**
 
-First, take your processor out of its box. Be gentle with it.
-- Your processor will come in a plastic shell, but don't take it out yet. Gently set it down on an empty space on your workspace.
+Before you do anything, take your motherboard out of its plastic bag and place it on top of its box.
+
+Now, you may take your processor out of its box. Don't drop it. 
+
+- Your processor will come in a plastic shell, but don't take it out yet. Gently set it down next to you.
   - If there is a stock cooler inside and you're using it, take it out as well and place it down on your workspace.
   - Be aware that the stock cooler (usually) has pre-applied thermal paste on the bottom of the heatsink, so don't let that touch the table or you. If you get some paste on your hands, just lay down the cooler and go wash your hands.
 
-## **[CLICK ME IF YOU ARE INSTALLING AMD AM4](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#amd-am4-installation)**
-## **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1151/1200](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#intel-lga-1xxx-installation)**
-## **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1700]()
+##### **[CLICK ME IF YOU ARE INSTALLING AMD AM4](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#amd-am4-installation)**
+##### **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1151/1200](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#intel-lga-1xxx-installation)**
+##### **[CLICK ME IF YOU ARE INSTALLING Intel LGA 1700]()
+
+### AMD AM4 Installation
+
+Locate the CPU socket. It should be at the upper middle part of your motherboard.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918261151324835930/unknown.png)
+
+On one of the corners of the socket, there will be a small triangle. 
+- Locate and remember the position of this triangle.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918323706672058418/unknown.png)
+
+Now, next to the socket, there should be a metal lever being held down.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918261395961815110/unknown.png)
+
+On the very left of the lever, push down and towards you until the lever isn't being held down anymore.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918262051716100148/unknown.png)
+
+Now, push the lever all the way to the right. You should see the rubber socket slightly move.
+
+![image](https://cdn.levvvel.com/wp-content/uploads/am4-cpu-list.jpg)
+
+After you've done that, take the processor and remove it from its plastic shell.
+
+- **BE EXTREMELY CAUTIOUS WHILE DOING THIS. IF YOU USE TOO MUCH FORCE, THE PROCESSOR CAN FLY OUT OF THE SHELL WHEN YOU OPEN IT, AND IT MIGHT CAUSE PHYSICAL DAMAGE.**
+
+Grab the processor by its sides. don't touch the top with the text or the bottom with the golden pins.
+- You can use two hands and grab each corner with one finger.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918602455225348166/unknown.png)
+
+Now, find the golden triangle on the corners of your processor.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918603263807475762/unknown.png)
+
+Once you've found it, lower the processor down into the motherboard socket with the triangle in the same spot as the socket's triangle was.
+- For example, my socket cover's triangle was on the top left, so the processor's triangle has to face the top left.
+
+Grabbing the processor by the sides, lower it down into the socket.
+- don't drop it in from a distance.
+- If it doesn't fit in the socket, you are not lining up the processor's triangle with the socket triangle.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/918602455225348166/unknown.png)
+
+Once it is in, make sure the processor sits flush with the socket.
+- **don't FORCE THE PROCESSOR IN.**
+- If you are feeling unsure about it being completely in the socket, you can give it a little wiggle, no more than that.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/919346331108126790/unknown.png)
+
+Finally, bring the lever towards you.
+- Push the lever all the way down until it sits underneath the rubber tab.
+
+![image](https://cdn.discordapp.com/attachments/746749543881637959/919347220631920740/unknown.png)
+
+Congratulations! You've installed an AMD processor.
+
+##### **[Click me to go to the next step!](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#installing-the-cooler)**
 
 ### Intel LGA 1151/1200 Installation
 
@@ -169,66 +232,6 @@ Finally, bring the lever towards you.
 ![image](https://cdn.discordapp.com/attachments/746749543881637959/918259697688117258/unknown.png)
 
 Congratulations! You've installed an Intel processor.
-
-### **[Click me to go to the next step!](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#installing-the-cooler)**
-
-### AMD AM4 Installation
-
-Locate the CPU socket. It should be at the upper middle part of your motherboard.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918261151324835930/unknown.png)
-
-On one of the corners of the socket, there will be a small triangle. 
-- Locate and remember the position of this triangle.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918323706672058418/unknown.png)
-
-Now, next to the socket, there should be a metal lever being held down.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918261395961815110/unknown.png)
-
-On the very left of the lever, push down and towards you until the lever isn't being held down anymore.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918262051716100148/unknown.png)
-
-Now, push the lever all the way to the right. You should see the rubber socket slightly move.
-
-![image](https://cdn.levvvel.com/wp-content/uploads/am4-cpu-list.jpg)
-
-After you've done that, take the processor and remove it from its plastic shell.
-
-- **BE EXTREMELY CAUTIOUS WHILE DOING THIS. IF YOU USE TOO MUCH FORCE, THE PROCESSOR CAN FLY OUT OF THE SHELL WHEN YOU OPEN IT, AND IT MIGHT CAUSE PHYSICAL DAMAGE.**
-
-Grab the processor by its sides. don't touch the top with the text or the bottom with the golden pins.
-- You can use two hands and grab each corner with one finger.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918602455225348166/unknown.png)
-
-Now, find the golden triangle on the corners of your processor.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918603263807475762/unknown.png)
-
-Once you've found it, lower the processor down into the motherboard socket with the triangle in the same spot as the socket's triangle was.
-- For example, my socket cover's triangle was on the top left, so the processor's triangle has to face the top left.
-
-Grabbing the processor by the sides, lower it down into the socket.
-- don't drop it in from a distance.
-- If it doesn't fit in the socket, you are not lining up the processor's triangle with the socket triangle.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/918602455225348166/unknown.png)
-
-Once it is in, make sure the processor sits flush with the socket.
-- **don't FORCE THE PROCESSOR IN.**
-- If you are feeling unsure about it being completely in the socket, you can give it a little wiggle, no more than that.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/919346331108126790/unknown.png)
-
-Finally, bring the lever towards you.
-- Push the lever all the way down until it sits underneath the rubber tab.
-
-![image](https://cdn.discordapp.com/attachments/746749543881637959/919347220631920740/unknown.png)
-
-Congratulations! You've installed an AMD processor.
 
 ### **[Click me to go to the next step!](https://github.com/Duck-Inc/PC-Building-Guide/blob/main/GUIDE.md#installing-the-cooler)**
 
