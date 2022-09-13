@@ -6,7 +6,7 @@ Are you scared?
 
 Good!
 
-I'm joking. This is relatively simple, just follow directions and you'll survive.
+I'm joking. This is relatively simple, just follow directions and you'll be okay.
 
 ## Tools needed
 
@@ -78,7 +78,7 @@ This is your **motherboard manual**. Take this out of the box.
 
 - You probably won't need this, but the guide is not made for all user scenarios. Therefore, you should have this around for a reference.
 - If you don't have a manual, you can find it at the manufacturer's website. 
-  - Here's a video showing how to do that.
+  - Here's a [video]() showing how to do that.
 - Anything else that you find made out of paper will probably be a quick start guide, a sticker, warranty notes, or a thank you note. You don't have to worry about those except for warranty (if you somehow manage to break your motherboard).
 
 ##### **Driver Disk*
